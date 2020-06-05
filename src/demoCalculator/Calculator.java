@@ -1,10 +1,10 @@
 package demoCalculator;
 
 public class Calculator {
-    void handleAdd(int a, int b) {
+    void handleAdd(int a, int b) {  // method sai kieu du lieu function
     	return a + b;
     }
-    void handleMinus(int a, int b) {
+    void handleMinus(int a, int b) { // method sai kieu du lieu function
     	return a - b;
     }
 	public static void main(String[] args) {
